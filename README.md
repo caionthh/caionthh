@@ -3,10 +3,10 @@
 > **About me**
 - 🧑 I'm Caio Oliveira Nascimento
 - ⚙️ Control and Automation Engineer
-- 🔭 Currently Fullstack Developer at Eadoo Tecnologia Lab
+- 🔭 Currently Technology Agent at Banco do Brasil
 - :brazil: Brasil
 - 🌱 Learning React JS/Native, Typescript
-- 🎮 Solo Game Developer on the free time
+- 🎮 Solo Game Developer on free time
 
 <div align="center"><br>
 <a href="https://github.com/caionthh">
